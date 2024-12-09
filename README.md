@@ -1,4 +1,4 @@
-# <library>.h
+# library.h
 
 ## Get started
 

@@ -1,4 +1,4 @@
-# logging.h
+# <library>.h
 
 ## Get started
 

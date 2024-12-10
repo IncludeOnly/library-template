@@ -3,7 +3,7 @@
 ## Get started
 
 ```bash
-wget https://github.com/IncludeOnly/<library>.h/blob/main/<library>.h
+wget https://raw.githubusercontent.com/IncludeOnly/<library>.h/refs/heads/main/<library>.h
 ```
 
 ## Example
